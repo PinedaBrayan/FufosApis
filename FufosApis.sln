@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FufosApis", "FufosApis\FufosApis.csproj", "{D81D603B-D05B-4545-AEE3-DAC7B50AE6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FufosEntities", "FufosEntities\FufosEntities.csproj", "{1DC788C4-A1C7-4FF5-B5B7-030683845658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81D603B-D05B-4545-AEE3-DAC7B50AE6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81D603B-D05B-4545-AEE3-DAC7B50AE6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81D603B-D05B-4545-AEE3-DAC7B50AE6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81D603B-D05B-4545-AEE3-DAC7B50AE6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC788C4-A1C7-4FF5-B5B7-030683845658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC788C4-A1C7-4FF5-B5B7-030683845658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC788C4-A1C7-4FF5-B5B7-030683845658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC788C4-A1C7-4FF5-B5B7-030683845658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD77D809-E4BB-4623-9F02-73E433733A36}
+	EndGlobalSection
+EndGlobal
